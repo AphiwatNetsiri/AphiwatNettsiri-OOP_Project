@@ -9,4 +9,4 @@
 # presentation: [canva] link [public]
 # video: link [public]
   
-![banner](1.png)
+![banner](./1.png)
