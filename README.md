@@ -6,7 +6,8 @@
 # author: 
   * id: 66114540861
   * name: Aphiwat Netsiri
-#technology: [stremlit]
+
+# technology: [stremlit]
 
 # application description: DORAIDE เว็บที่สามารถแนะนำหนังให้คุณได้
 
