@@ -1,6 +1,6 @@
 # OOP-Project0
 
-![banner](./1.png)
+![banner](image/PMG/1.png)
 
 # space invader
 # author: 
