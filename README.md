@@ -6,9 +6,9 @@
   * name: Aphiwat Netsiri
 #technology: [stremlit]
 
-#application description: DORAIDE เว็บที่สามารถแนะนำหนังให้คุณได้
+# application description: DORAIDE เว็บที่สามารถแนะนำหนังให้คุณได้
 
-#presentation: [canva] link [public]
+# presentation: [canva] link [public]
 
-#video: link [public]
+# video: link [public]
 
